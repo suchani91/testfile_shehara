@@ -1,1 +1,1 @@
-This is test file for git version control
+This is test file for git version control. This text is added to second commit.
